@@ -33,7 +33,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://twitter.com/seyiadel/"
+          href="https://linkedin.com/in/oluwaloseyi-adeleye/"
           target="_blank"
           rel="noopener noreferrer"
         >
