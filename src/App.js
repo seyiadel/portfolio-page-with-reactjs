@@ -1,23 +1,48 @@
-import logo from './logo.svg';
+import image from './qwerty123.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <code><i>playing theme song..</i></code>
+        <img src={image} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         <code>🥱 Hi, I'm Seyi Adeleye.</code>
         </p>
+          <code>a backend engineer.</code>
+        <p>~Go, Python[Django, fastAPI], Git</p>
+    
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/seyiadel/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Github Profile
+        </a>
+
+       <a
+          className="App-link"
+          href="https://twitter.com/seyiadel/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Twitter 
+        </a>
+
+        <a
+          className="App-link"
+          href="https://twitter.com/seyiadel/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Linkedin
         </a>
       </header>
+      <footer>
+        <code>🚨..built with speed💨</code>
+      </footer>
     </div>
   );
 }
